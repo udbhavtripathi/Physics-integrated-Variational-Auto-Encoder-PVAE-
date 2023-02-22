@@ -1,6 +1,7 @@
 # Physics-integrated deep learning for uncertainty quantification and reliability estimation of nonlinear dynamical systems
 
 Authors: Udbhav Tripathi, Shailesh Garg, Rajdip Nayek, Souvik Chakraborty
+
 Paper link : https://www.sciencedirect.com/science/article/pii/S0266892023000085
 
 Abstract: Assumptions and approximations made while analyzing any physical system induce modeling uncertainty, which,
